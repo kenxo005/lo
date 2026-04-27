@@ -1,0 +1,9 @@
+Improve download stability and add robust error reporting
+
+Refactor download logic to enhance stability by reducing aria2 concurrency, implementing retry mechanisms with resume capabilities, and improving fallback download procedures to prevent data corruption and provide clearer error messages.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 5862e492-eb16-4af1-b138-48de35bdf608
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 65ea338d-a759-4f1c-bd17-c489f06cda56
+Replit-Helium-Checkpoint-Created: true
